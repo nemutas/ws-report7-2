@@ -8,3 +8,10 @@ https://nemutas.github.io/ws-report7-2/
 # Requirement
 
 <img src='https://github.com/nemutas/ws-report7/assets/46724121/630ec3c4-7ced-4d48-8768-413773bb4b9a' width='700' />
+
+# Reference
+
+- [カメラ行列からレイトレ用のレイを生成する](https://gam0022.net/blog/2017/12/11/get-ray-from-camera-matrix/)
+- [法線を正しい向きにするときなぜ逆転置行列なのか](https://qiita.com/ktanoooo/items/7da443e7bc38f7ff6734)
+- [glMatrix](https://glmatrix.net/)
+- [Cubemap](https://www.humus.name/index.php?page=Textures)
