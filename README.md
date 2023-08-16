@@ -1,9 +1,9 @@
-# ws-report7
-WebGL School の第7回目の講義の課題です。
+# ws-report7.2
+WebGL School 第7回目の講義課題です。
 
-https://nemutas.github.io/ws-report7/
+https://nemutas.github.io/ws-report7-2/
 
-<img src='https://github.com/nemutas/ws-report7/assets/46724121/63e77e16-88ae-43e3-bf12-85d8fd3f9b04' width='700' />
+<img src='https://github.com/nemutas/ws-report7-2/assets/46724121/0e2ff600-74b9-4312-b41f-03ae73cba9da' width='700' />
 
 # Requirement
 
